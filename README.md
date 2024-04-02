@@ -16,7 +16,7 @@ Download the application [here](https://github.com/Akshaya21513/Spending-Tracker
 
 #### Screenshots:
 
-1. [Screenshot 1](#) - Add description here.
+1. [Screenshot 1](Category.jpeg) - Add description here.
    
 2. [Screenshot 2](#) - Add description here.
 
