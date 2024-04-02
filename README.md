@@ -19,10 +19,10 @@ Download the application [here](https://github.com/Akshaya21513/Spending-Tracker
 <table>
   <tr>
     <td align="center"><img src="Category.jpeg" alt="Categorye"></td>
-  </tr>
-   <tr>
+<!--   </tr>
+   <tr> -->
       <td align="center"><img src="ViewSpending.jpeg" alt="ViewSpending"></td>
-   </tr>   
+<!--    </tr>    -->
    <tr>
       <td align="center"><img src="SpendingTracker.jpeg" alt="SpendingTracker"></td>
    </tr>   
