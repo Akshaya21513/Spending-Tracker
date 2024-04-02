@@ -17,15 +17,12 @@ Download the application [here](https://github.com/Akshaya21513/Spending-Tracker
 #### Screenshots:
 
 <table>
-  <tr>
-    <td align="center"><img src="Category.jpeg" alt="Categorye"></td>
-<!--   </tr>
-   <tr> -->
-      <td align="center"><img src="ViewSpending.jpeg" alt="ViewSpending"></td>
-<!--    </tr>    -->
    <tr>
       <td align="center"><img src="SpendingTracker.jpeg" alt="SpendingTracker"></td>
-   </tr>   
+   </tr> 
+  <tr>
+    <td align="center"><img src="Category.jpeg" alt="Categorye"></td>
+    <td align="center"><img src="ViewSpending.jpeg" alt="ViewSpending"></td>
 </table>
 ---
 
