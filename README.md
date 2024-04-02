@@ -16,13 +16,18 @@ Download the application [here](https://github.com/Akshaya21513/Spending-Tracker
 
 #### Screenshots:
 
-1. [Screenshot 1](Category.jpeg) - Add description here.
-   
-2. [Screenshot 2](#) - Add description here.
-
-3. [Screenshot 3](#) - Add description here.
-
+<table>
+  <tr>
+    <td align="center"><img src="Category.jpeg" alt="Categorye"></td>
+  </tr>
+   <tr>
+      <td align="center"><img src="ViewSpending.jpeg" alt="ViewSpending"></td>
+   </tr>   
+   <tr>
+      <td align="center"><img src="SpendingTracker.jpeg" alt="SpendingTracker"></td>
+   </tr>   
+</table>
 ---
 
-Feel free to add your screenshots and their descriptions above!
+
 
